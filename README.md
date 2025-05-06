@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Reina 👋
+
+I'm a final-year MEng student at the University of Cambridge, specialising in scientific machine learning, control systems, and data-driven modelling of physical and biological systems.
+
+Much of the code here comes from university research and coursework completed under tight deadlines, often while I was rapidly developing my software skills. These projects leaned more toward quick prototyping than clean structure (but there was a plenty of learning along the way!).
+
+I’m now working on new projects with a more polished approach, and I’ll be updating this profile with those soon.
+
+Thanks for visiting, and feel free to reach out!
+
 
 <!--
 **Reina234/Reina234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I
